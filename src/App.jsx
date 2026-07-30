@@ -5,7 +5,7 @@ import Home from "./pages/Home";
 import LLMResearch from "./pages/LLMResearch";
 import ESGResearch from "./pages/ESGResearch";
 
-import "./styles.css";
+
 
 function App() {
   return (
