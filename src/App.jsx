@@ -2,8 +2,8 @@ import "./style.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import Home from "./Pages/Home";
-import LLMResearch from "./pages/LLMResearch";
-import ESGResearch from "./pages/ESGResearch";
+import LLMResearch from "./Pages/LLMResearch";
+import ESGResearch from "./Pages/ESGResearch";
 
 
 
